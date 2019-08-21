@@ -1,0 +1,1022 @@
+[24-Jul-2018 05:18:01 UTC] PHP Warning:  fopen(/projects/takeout/db/keys.config): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/db/file_connect.php on line 7
+[24-Jul-2018 05:18:01 UTC] PHP Warning:  fopen(/projects/takeout/db/keys.config): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/db/file_connect.php on line 7
+[24-Jul-2018 05:18:01 UTC] PHP Warning:  fopen(/projects/takeout/db/keys.config): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/db/file_connect.php on line 7
+[24-Jul-2018 05:19:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'takeout_user'@'localhost' to database 'pinecone_takeout' in /home/gnu40k7jawq7/takeout_app/db/db_connect.php:3
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_connect.php(3): PDO->__construct('mysql:host=loca...', 'takeout_user', '6SgAslsRQhlLYHU...')
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(11): require('/home/gnu40k7ja...')
+#2 /home/gnu40k7jawq7/public_html/connection.php(15): require('/home/gnu40k7ja...')
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_connect.php on line 3
+[24-Jul-2018 05:19:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'takeout_user'@'localhost' to database 'pinecone_takeout' in /home/gnu40k7jawq7/takeout_app/db/db_connect.php:3
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_connect.php(3): PDO->__construct('mysql:host=loca...', 'takeout_user', '6SgAslsRQhlLYHU...')
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(11): require('/home/gnu40k7ja...')
+#2 /home/gnu40k7jawq7/public_html/connection.php(15): require('/home/gnu40k7ja...')
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_connect.php on line 3
+[24-Jul-2018 05:19:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'takeout_user'@'localhost' to database 'pinecone_takeout' in /home/gnu40k7jawq7/takeout_app/db/db_connect.php:3
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_connect.php(3): PDO->__construct('mysql:host=loca...', 'takeout_user', '6SgAslsRQhlLYHU...')
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(11): require('/home/gnu40k7ja...')
+#2 /home/gnu40k7jawq7/public_html/connection.php(15): require('/home/gnu40k7ja...')
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_connect.php on line 3
+[24-Jul-2018 05:22:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'takeout_user'@'localhost' to database 'pinecone_takeout' in /home/gnu40k7jawq7/takeout_app/db/db_connect.php:3
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_connect.php(3): PDO->__construct('mysql:host=loca...', 'takeout_user', '6SgAslsRQhlLYHU...')
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(11): require('/home/gnu40k7ja...')
+#2 /home/gnu40k7jawq7/public_html/connection.php(15): require('/home/gnu40k7ja...')
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_connect.php on line 3
+[24-Jul-2018 05:22:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'takeout_user'@'localhost' to database 'pinecone_takeout' in /home/gnu40k7jawq7/takeout_app/db/db_connect.php:3
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_connect.php(3): PDO->__construct('mysql:host=loca...', 'takeout_user', '6SgAslsRQhlLYHU...')
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(11): require('/home/gnu40k7ja...')
+#2 /home/gnu40k7jawq7/public_html/connection.php(15): require('/home/gnu40k7ja...')
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_connect.php on line 3
+[24-Jul-2018 05:22:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'takeout_user'@'localhost' to database 'pinecone_takeout' in /home/gnu40k7jawq7/takeout_app/db/db_connect.php:3
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_connect.php(3): PDO->__construct('mysql:host=loca...', 'takeout_user', '6SgAslsRQhlLYHU...')
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(11): require('/home/gnu40k7ja...')
+#2 /home/gnu40k7jawq7/public_html/connection.php(15): require('/home/gnu40k7ja...')
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_connect.php on line 3
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: rating in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: rating in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: rating in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: rating in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined index: order_id in /home/gnu40k7jawq7/takeout_app/logic.php on line 962
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:31:02 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:39:10 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 972
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 973
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 966
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 967
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 968
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 969
+[24-Jul-2018 05:41:35 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 976
+[24-Jul-2018 06:00:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:01:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:01:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:01:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:04:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'home_address' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:05:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:06:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_date' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:47
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(47): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(70): db_add_value(Object(PDO), 'users', Array, Array)
+#2 /home/gnu40k7jawq7/public_html/connection.php(45): addCustomerUser(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 47
+[24-Jul-2018 06:07:44 UTC] PHP Warning:  fopen(/projects/takeout/assets/customer/profile/myles-myles@takeout.ca): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 75
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-pizza): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-pizza): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-Ketchup): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-sweet): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-pizza): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-pizza): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/1-pizza): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/2-dish 3): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/2-dish 1): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/2-dish 2): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/3-dish 2trst test): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/3-pasta): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[24-Jul-2018 06:15:49 UTC] PHP Warning:  fopen(/projects/takeout/assets/chef/menu_items/3-chicken): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1868
+[30-Jul-2018 21:53:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/gnu40k7jawq7/public_html/connection.php on line 22
+[30-Jul-2018 21:58:59 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[30-Jul-2018 21:58:59 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 20:58:58 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 20:58:58 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 20:58:58 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 20:58:58 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 20:58:58 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 20:58:58 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:09:54 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:09:54 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:18:45 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:18:45 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:22:32 UTC] PHP Warning:  require(home/gnu40k7jawq7/takeout_app/logic.php): failed to open stream: No such file or directory in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:22:32 UTC] PHP Fatal error:  require(): Failed opening required 'home/gnu40k7jawq7/takeout_app/logic.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/gnu40k7jawq7/public_html/connection.php on line 18
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 667
+[07-Aug-2018 23:25:30 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 669
+[07-Aug-2018 23:40:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'menu_items' in 'field list' in /home/gnu40k7jawq7/takeout_app/db/db_manager.php:171
+Stack trace:
+#0 /home/gnu40k7jawq7/takeout_app/db/db_manager.php(171): PDOStatement->execute()
+#1 /home/gnu40k7jawq7/takeout_app/logic.php(2891): db_update_value(Object(PDO), 'menu_items', Array, Array, Array, Array, 1)
+#2 /home/gnu40k7jawq7/public_html/connection.php(541): query(Object(PDO), Array)
+#3 {main}
+  thrown in /home/gnu40k7jawq7/takeout_app/db/db_manager.php on line 171
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[07-Aug-2018 23:55:20 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[07-Aug-2018 23:55:43 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[07-Aug-2018 23:56:15 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[07-Aug-2018 23:57:43 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[08-Aug-2018 00:00:05 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAHmCAIAAACjxJxtAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAADzAAAAKAAAAPMAAADzAAURtxZX+wwAAEAASURBVHgB
+7J0FeBRZ1v7n2Z0hLpDgDoO7OwTXCBYhhAjxhDguEWKQhLgiwd0tuLvFiCsECxDi
+bv/33NvdaZjd/fbbnfmWnT88Z2qqq6s73dXVt379nvec+5O0xE9yEj/LSSJ+QchL
+SspKNkPISWGJLT/LS/3Cg68rSP6iyEMK+9AD5fk+Ms3kZZrJyDaTlW0mJyfRXLKZ
+glQzRalmzdlSQZrubQo8uYwE/oScFP0JOelfcBeWbEszaewp+KNYoZCVlJCR/Fla
+8mcpLKV+kZH4WVbiF7w8LLHOX6q05C9SEj9LSvxVQupnKYm/yjT7WZbtLyn1s6Tk
+X7Gdh4TkXxGSkthIO0s3o+18Ix4o0ewvkhL0V2gdD+Qh/bOU9C94VQi8bFlZCXlZ
+ieayzVrKSSvJSysryCg3l23VXK6Nolx7JYUOSoodWih2VGreuaVS59YturZR6t5a
+uUcrpR7tlHt3bte/e5fBvXuMGNhv/JBBU8eNnjVVRU11jo7uEnNz85UrV23c6OLp
+sXWbf3BY+M5d0fv37jt88NDxY0dPnzx1/szpmLPnLp07f/nshSvnLl6nuHDj7IWb
+pxFnr508e/3Y6WtHTl09fPLKkVPXj5y+cezsrePn7p6++OB0zP2Ya0+u3Hpx7U7c
+rYcv7z1NexSb8TwhOz4592VqXnL629SM9+mZHzKy87Nz83NyP+a8osjFSu7H7Ny3
+GTl5GVlv0rLyUtJzEclpuUlYpuemZr5Ny36dnfs+N+/j63cF7z8Wfyws/1JSVVRe
+W1pRX1FZV1VZX1PVWFPTWFvTWF/fKPrX0NAgWv+xwo9AXV1DTXVDdVV9d in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:06 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAuwAAAIuCAIAAABrYsoUAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEXAAAAKAAAARcAAAEXAAglYpg/uVgAAEAASURBVHgB
+7LxnUFTp2qjd5Ew3saEJ3cTOOecmZ/M4exx1HHNEMeeAio45C6KiIgKSBQRBcs5Z
+ckZRx5wV6PU9q1HH2Xufc97z/fjq/d7a1lVPLZq26Cp/cHnd91oIgS5iEpE+AiA2
+QEgNYWRGCLnx3wAvisF79BBCXQRfG4ajieBoILiaCImehswQoCk30pAbaSqMNOXG
+OgpjHfg00pYDDLVlBjBiPQ2hthqAr4XgacBw1RBsBIKvhgjQ1Z6lrzNTT2e6tsZU
+LfUgTXVfNYQ3AuGFQHh8w10NAfDWUvfT1QrQ1w5CGU6zMJluaToLY/kPO+vZtlZT
+0WaBFiYBAEvTQEvTAEsTT3OUmzlSZmIkMtLh62vxDbS4htp8Y12JqVGgs90MkvMy
+hWj79KDQOT+dXbUsetfWuH07sk6Ell3+o+zyoeyTOzKObkk9GHJz3T+ilk25vDjg
+j+mCUH/mfi/SAbH9QR76IM8qjI8+xLc6KrS6ILO5pLC96om77u103df5mh/+mj85
+6htX/KknAzlHg/hHpwrP/ex+cY7XpQVBsaEbk07uL7p16c/WSujPfujlI+jze2js
+MzT2Cfr0Efr0ARr7AkFK6L/Jn/EJ6AcmJpRjEAT4rIQ+TcB8UcJf/sXEF+WLAejJ
+A+Wj1rddFa/ail9Wpb5MOPAiZseLmJ0vb+18dWvn29htE7c3QIkboDvboKzdUO4+
+qOwo1HAear4ItV6COq4oO6I+9MW+649/2x//qivmRefNVz0xn57Hjr2NG38HiId5
+cQsaiIJ6Lo8/uPCuPOxt4b63aZvfXF/5+ury11eWvYpc8vrqso+xwcq0z in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:06 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAIwCAIAAABWS3nCAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAkC1hRffUoAAEAASURBVHgB
+lLwHVFTnwv6b/3dazslJ4kkxMSbRxGhiL4nGGktsWBFRQJBiww5YAOlKld47zADD
+9N777Om9F2YYepdeBU3OyX0HT7vfveuudV3PeteemT3DltnM+9vP87zzVtnz+PLs
+hKq85PriNGR1LgFRxsDXMcn1TEo9l9FIxVejmwvRqKKszKjCgjhEUx6VVstiN3C4
+CIUACyTn4yQctJiNFrFQQjaaz0ELeVixkCLkEjksHIuFY7MJEMQQi1kCIYPDodAY
+OAoNQ2fjaTwimYUlsPBkLokmpNIhOhBLzKaLGAwujcWj84RsCOKKJXwZJJBCfDwJ
+jiPBCJQGOgvJExIgKVkIEVlcFIXegCVUI5pLiKQ6vhCjUNLUWpZKw1Cq6GoVw6Dn
+ao0irRHSmaRGq9xsV9qcmjeyOtV6s1xvkhvMSoNJpTXIVVqJRi8zWTW2Fr3LbXY6
+lECuFtWi1G6npqNN39Nl7u+1DfTZBwdaXgw6R4Zco8NuILA92Ofo67V1tevbW5Xd
+ndr+HuNAr3Gwzzw0YB3qNw/0GXq7tH3t6t42VZdL1tYCtTmgdqe40yVxW4U2Pcug
+IBmVJJOKYtXSHQaW08Cwa6kWFcGkwBmkGI0IIWXVc0klDEw+j1gkplUoWDUyVpWI
+XMJEpZPhSZi6RHR9ErI+qbYmobTkUW51VHFDbBr8VlL9lSe1gfdgx+/WH7uN2XUH
+t+sKet3l5lX+9V8EVn51qWJlcNXqm4jNUdjdcdSjqVzvLFFonvR6qTSuTBpfLk6u
+EKWWCZ+W8BIL2XGF7MeFrEf57Igc1p3nzJsZjPB0+o1nDI+eMq4nM66n0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:06 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAuwAAAIwCAIAAABSvqn/AAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAZsqr3OQUkAAEAASURBVHgB
+7L0Hd9tW1rY9P/4tz/fMJHGR1VgAkiDBDrCCHQB7L+rVsp04TnN6m0km/u59DgCC
+lGTLiZ95Z9bKWtfCOtbITuSJqIv33mfvv3gehWwCnkeB3Q1x95F/95F3Z8PD2N3Z
+2N3e2N16sLP1YHfrvofh3bovMMSte4Gte8GtD4Jb96Tte8Gd+36GsPNQ3HkYsNjA
+Hxt08GxKnq2Id0v2bjtEvTvxNcRdKbAbdAh6Qm5CXokTFeSYGI2L0UQgBpLBeCqU
+UKSkEkmrkXRWTuXkdC6azsVTnGwsmY0lMtGEGo0qspyORNLhSFoKA0WKZOQoQ87I
+OBPZyDXkSC4mvzMSci4RfRNyJha5C9mofAeiudiSbDTKf0tGXn7V9LVH8Q+1UKOR
+FeSwEgmrnLCkcCRJkSQ1FFIY6WBwlUg6SCgh2UHFWZJVKeomE46BbCQOcnIC5KPJ
+QiwFivG0llC0hFqIZ5ckcsVETkvmSyBV4JTTxRJIFXDgVBWtqpZqmXIdZCuNXJVT
+K9ZqpXq91KiX9UbZ0Cu6UTGMatOstsxaq1lvE412rznot4eD9mjYngzbs3F3Nukt
+HMbdOZh054vu3qKzWHTmjNmiM9vrgvl+b3Ew2DsY7h+Ojg4nx0fzs6O9x8d7T06O
+X5ycfX56+fX51fcXT3+8+OiXi49/Of/41/MXrx5/8tuTT34FV+Czf159/ht4/Nk/
+Lz799fyTX06f/3zy4U/Hz348vPrm8PFXi5NPpgcfjuZX/eFRr7/fbk+bxsBodOsV
+o6rVK4VqNVusZguVTL6k5jQlq6UzxZRaSCpr5BPpXML6TnF9v+BbZkkml in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:06 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAuwAAAHyCAIAAAA/dgzdAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAD5AAAAKAAAAPkAAAD5AAbvTS703wIAAEAASURBVHgB
+7L2HV1t32rY7f8f55p30OLbjbow72GB67wZM770329jgggumg0C976261bd6r0hC
+gGvikjrv33GenwTYSSaTzMm33rO+s85a19JsbTCxiTO6uJ/7+elvduEVJ57qkaQH
+VTnbhtKX1sp3nvof/O0/BNq/97d/721742781ln30nZt21C4pc+PkNkRTWZYnRFS
+ZKzLsvziLJ8owydKdWPJDkGSiZ2gYyVoGRfV9AQVK0nNSdfwsnWCQremad3QHbEO
+RhzXN+2ILfvYtuP6tmPsqX140zawbur1GLo9hk6HttmmatBLKqX0XO5CysOR4wMN
+Xw7UHxpuOnu7O2+yv+7ecNeTOxO0ZTqHJeILVVxcx8a1TExDw9RssZ4rNfKkJh5h
+4SusAqUdUwNOXLMDXAvUdqHGgWkduNYpIt0SvVdq8EqNPpnJJzP75eaA3OiPQZgC
+gMIUUJnW1eagxhzSWKKYQ/AU3TH9DuYwaXkaQ2d9Cmit22rrtsqypTBvKkwRhDlC
+mCJy04bYEBLpQ7g+iOnXPwTXBUQaPyDW7iDV+AGZNiDT+WIQOi+g0HmVpAdQ6Twq
+rVuhdipUTkLlkCvtBMImJ2wyhVVGWKRyi0RmFksBk0SsF4v0EpFeKo4iIiWYTiTQ
+4HwVxlMIOISQLRey5AKWTMCS8JliHkPEpeMAj47DU7gZu4/uMMWxOxhbinPlYr5C
+IlBKhaoPgZsyTC0TaRRSUiE3KHdRESa1wqxRWbRaWxS7hrRpSYdWj9AZnABpdCHg
+qc6q1Vo0GotabVEqLQqFmSDMhNwsI+BPh/6YYqlFIrECYokFF5kwkVGAk in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:06 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAHmCAIAAACjxJxtAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAADzAAAAKAAAAPMAAADzAAbR8DdTRigAAEAASURBVHgB
+VLwHkF1Xet95870vdM455/Byv84ZGUQgAAJEzjmnBrrROeeckBMBMIDkcDQzmpFG
+kktlb8m7rrXl9a69DpJX0lqSpdFEzjAA2N9paGRv1alXjyDQ/d6993zn//3DJ53M
+Dj2RYZ5Oka+kSW2ZUl+2NF6qTviMqXL7WJnVWmy/lGueTVfOpkoX0uTr2XJ3sTzu
+VxYrpft10uM680GNeafGmq20DfiMljzlfKZ6JEndFaXsjDL2RehHYsxjsfqpOPls
+vHw1Vb6VLXfmyb1Fcn+J1F0UejHbcSBF3xqvvBMtvxdt7Iu1jiTajqXYjqUZh5OM
+/XHK4QT1UKx8KEY6GCMdipUOxsl7Y+R9ceqeGOXAyp+fTpAupUo3M6XeQnnUo00H
+zblKa6rcmC7XZ8uU2YC8WCYtl2vLFcZChTldZo35zcGg1eu33yp1XM2zX8hyXMwK
+uZJjXc1RWvlIXmkpYNyuDJkoD73ldpwvtp0usJ3L1a5ky115yrjLxo+drjKnah1j
+daHtZfaLJdbJfPvBdGt3vO29aGt7pLojRtuVZG1PNPhG78RIW+LkbfHKe3HKzhhl
+fYzUFKXUhxu1ofaaMKvWLm8Mlw4lS5ey5PYCdcArjwSV6Wprpto2WWGMBPR+j9FV
+arYWWjfz7S05ys086VaR3O1WO0vVW4V6R5HVWWK7VWLeLFRa8qXOUnnAq476lZly
+7U6tda/eulOj3anW7tUaj5u0J6uNp+vsD1fblhpsi/URE5UR3e6Qa7n2s+nWoXTz
+YJp2OEU+mS5fzNZa8432fPNWnnEzW72RpVzNMW7yJ0Vat1vrcak9Jeqg1 in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:06 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAuwAAAIwCAIAAABSvqn/AAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAZsqr3OQUkAAEAASURBVHgB
+7L0Hd9tW1rY9P/4tz/fMJHGR1VgAkiDBDrCCHQB7L+rVsp04TnN6m0km/u59DgCC
+lGTLiZ95Z9bKWtfCOtbITuSJqIv33mfvv3gehWwCnkeB3Q1x95F/95F3Z8PD2N3Z
+2N3e2N16sLP1YHfrvofh3bovMMSte4Gte8GtD4Jb96Tte8Gd+36GsPNQ3HkYsNjA
+Hxt08GxKnq2Id0v2bjtEvTvxNcRdKbAbdAh6Qm5CXokTFeSYGI2L0UQgBpLBeCqU
+UKSkEkmrkXRWTuXkdC6azsVTnGwsmY0lMtGEGo0qspyORNLhSFoKA0WKZOQoQ87I
+OBPZyDXkSC4mvzMSci4RfRNyJha5C9mofAeiudiSbDTKf0tGXn7V9LVH8Q+1UKOR
+FeSwEgmrnLCkcCRJkSQ1FFIY6WBwlUg6SCgh2UHFWZJVKeomE46BbCQOcnIC5KPJ
+QiwFivG0llC0hFqIZ5ckcsVETkvmSyBV4JTTxRJIFXDgVBWtqpZqmXIdZCuNXJVT
+K9ZqpXq91KiX9UbZ0Cu6UTGMatOstsxaq1lvE412rznot4eD9mjYngzbs3F3Nukt
+HMbdOZh054vu3qKzWHTmjNmiM9vrgvl+b3Ew2DsY7h+Ojg4nx0fzs6O9x8d7T06O
+X5ycfX56+fX51fcXT3+8+OiXi49/Of/41/MXrx5/8tuTT34FV+Czf159/ht4/Nk/
+Lz799fyTX06f/3zy4U/Hz348vPrm8PFXi5NPpgcfjuZX/eFRr7/fbk+bxsBodOsV
+o6rVK4VqNVusZguVTL6k5jQlq6UzxZRaSCpr5BPpXML6TnF9v+BbZkkml in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:07 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAIwCAIAAABWS3nCAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAg+fSdqFOIAAEAASURBVHgB
+5Lx3WJTn2q/9DGBLX8nKWllp5k2yUlaKGpNo1Fiixl5irFEjFgQB6U167zCUgRnq
+DL0z9N5BASt2rHTpvczMU+7ru55BTd717m9/x/H98e69j+1xHo/PFGDAkTnnd/3u
+m4L/9j8E4Dn//sWf3sAB4YB7BmGAMCzA/xDmv1z//JPPnvzxxf58w3/+wn++5fm5
+EgBRER6GAHkGPi4gNOFUCEfwRnr2S3AssAwwLH8bwnKAcITn+cfSHCBKlmeGhmkl
+jM/AyDQMTXJ9Y6onQ4onAxN93U+62h4P3Wnuaakbaswcrk8Yro4eK/YayXMbTzcb
+STEeTzw9nnByLO74aOzRkahDU+J1U+FrJ8LWjYnWjYauHQ5dPyLaMCDeMijeOhz9
+60js/tHYQ8PSo0hf7LHe6KPd0drd0cc7o3+/G73zduT2G+E7roVsuSTc0uCzqdRx
+dbrZijj9Jf6Hv/DY90+bXR8bbPnw+Jq3d694e+vSN9YtfmPNV39ZsfQv3y9/bfmK
+N37c9OGOA9/8orNmv/7Go6Zbdex+MfU4EiDSDpKcSg37NSNsT5loy8XQdTejtvTF
+/DQg3UCn/cBl/MBlriDytZCzDnLWP+MnyFoLKStJ8gqI+wZkiyH6K4j6AiSfQtiH
+ELIQAhdC2CeQsAmyDkKxITSEweUY7l49tF2CrnvQ/Yin5yFP733oaSXdt0jXDabj
+ykRn1SyTXdVT3XWK3guq/mZm4A431Aq99zi8Z/tFuF/B3ciBBndliQ2TuXcmactY
+zOIh8Vuj4ndVwV8rg75iA5eCcBkjXqWSrSMpW2dqrOCyC3snBx6UwL1qu in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:07 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAIwCAIAAABWS3nCAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAUwxAOMoRcAAEAASURBVHgB
+7L0HVyNZtm6bv/69d+897nb3Oe3LV6VPSG9JyMR7AQJJgAxWeCTkI7Z5c+0dCgmb
+pkx3VVPjG1EhIZQoJMWe8S13Q7Vs2LSm1jIndX1csbsHdnvHFnI2u2JTC3Zh1sxN
+hYkJ0eKcTS+ZlYxZXba5bFjc0bt7+vDIHpdMuWIqDVtt2oayTW1bNlJgbSx3p2lZ
+/sXPUBjYbp15Bt20sQwvp9GRbpqOGsZ0ydZNRzVtvarKRgpsNZKpBqbS+hjpk5Yq
+O5UCdU62FNhSyx5U7UHF7pXtzpEtHtitXbtRtIWCzub1yqpNLdn5OTs5akfe24FX
+tu+pffXIPrlnem/Xe243eu82XzwJ3r4yg+/s+LidmmouLoTplMoum3zWrq/ZrU27
+vWX39+zBvjk6NEdHSB8fi45K+qisjype9qh0gY5LvKGnVCqZLulSSV0uXS5fpu4n
+Ob9vy+XLdNkTfuh+Ppb7otIh0uUjVT5W5VLo5P8AW+KVHnN85Fjt7eqdbbWz2doq
+NNazjcKKXk62lhJ2etiO99v3z+3rXvv8vu351j74Jrj/LWo8vFV/dj988ygYfGNG
++4OFKZWa1Zk5k0vZwrLdLNitNbO3afe37MGOLh2Y0pE6KSNdqaiTqqhcQ+bk5DJd
+caiVvKH7yBzsRdrf0/u7XmqniLRXsaiK27H09qbZ3EAWbayfkeFzWCiYXF5nczqb
+VavZcGXVS04IS/PILCbUwqyem1GJaZWYDDg5zI6rqdFwcjSYGGmODbXGBlvjg+H4
+kBof0hPDenJITQzq0QE93K+G39qhN+a9+2C/fmJfPLTPe+xTDuxte+97e in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:07 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAIwCAIAAABWS3nCAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAUwxAOMoRcAAEAASURBVHgB
+7L0HVyNZtm6bv/69d+897nb3Oe3LV6VPSG9JyMR7AQJJgAxWeCTkI7Z5c+0dCgmb
+pkx3VVPjG1EhIZQoJMWe8S13Q7Vs2LSm1jIndX1csbsHdnvHFnI2u2JTC3Zh1sxN
+hYkJ0eKcTS+ZlYxZXba5bFjc0bt7+vDIHpdMuWIqDVtt2oayTW1bNlJgbSx3p2lZ
+/sXPUBjYbp15Bt20sQwvp9GRbpqOGsZ0ydZNRzVtvarKRgpsNZKpBqbS+hjpk5Yq
+O5UCdU62FNhSyx5U7UHF7pXtzpEtHtitXbtRtIWCzub1yqpNLdn5OTs5akfe24FX
+tu+pffXIPrlnem/Xe243eu82XzwJ3r4yg+/s+LidmmouLoTplMoum3zWrq/ZrU27
+vWX39+zBvjk6NEdHSB8fi45K+qisjype9qh0gY5LvKGnVCqZLulSSV0uXS5fpu4n
+Ob9vy+XLdNkTfuh+Ppb7otIh0uUjVT5W5VLo5P8AW+KVHnN85Fjt7eqdbbWz2doq
+NNazjcKKXk62lhJ2etiO99v3z+3rXvv8vu351j74Jrj/LWo8vFV/dj988ygYfGNG
++4OFKZWa1Zk5k0vZwrLdLNitNbO3afe37MGOLh2Y0pE6KSNdqaiTqqhcQ+bk5DJd
+caiVvKH7yBzsRdrf0/u7XmqniLRXsaiK27H09qbZ3EAWbayfkeFzWCiYXF5nczqb
+VavZcGXVS04IS/PILCbUwqyem1GJaZWYDDg5zI6rqdFwcjSYGGmODbXGBlvjg+H4
+kBof0hPDenJITQzq0QE93K+G39qhN+a9+2C/fmJfPLTPe+xTDuxte+97e in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:07 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAIwCAIAAABWS3nCAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAUwxAOMoRcAAEAASURBVHgB
+7L0HVyNZtm6bv/69d+897nb3Oe3LV6VPSG9JyMR7AQJJgAxWeCTkI7Z5c+0dCgmb
+pkx3VVPjG1EhIZQoJMWe8S13Q7Vs2LSm1jIndX1csbsHdnvHFnI2u2JTC3Zh1sxN
+hYkJ0eKcTS+ZlYxZXba5bFjc0bt7+vDIHpdMuWIqDVtt2oayTW1bNlJgbSx3p2lZ
+/sXPUBjYbp15Bt20sQwvp9GRbpqOGsZ0ydZNRzVtvarKRgpsNZKpBqbS+hjpk5Yq
+O5UCdU62FNhSyx5U7UHF7pXtzpEtHtitXbtRtIWCzub1yqpNLdn5OTs5akfe24FX
+tu+pffXIPrlnem/Xe243eu82XzwJ3r4yg+/s+LidmmouLoTplMoum3zWrq/ZrU27
+vWX39+zBvjk6NEdHSB8fi45K+qisjype9qh0gY5LvKGnVCqZLulSSV0uXS5fpu4n
+Ob9vy+XLdNkTfuh+Ppb7otIh0uUjVT5W5VLo5P8AW+KVHnN85Fjt7eqdbbWz2doq
+NNazjcKKXk62lhJ2etiO99v3z+3rXvv8vu351j74Jrj/LWo8vFV/dj988ygYfGNG
++4OFKZWa1Zk5k0vZwrLdLNitNbO3afe37MGOLh2Y0pE6KSNdqaiTqqhcQ+bk5DJd
+caiVvKH7yBzsRdrf0/u7XmqniLRXsaiK27H09qbZ3EAWbayfkeFzWCiYXF5nczqb
+VavZcGXVS04IS/PILCbUwqyem1GJaZWYDDg5zI6rqdFwcjSYGGmODbXGBlvjg+H4
+kBof0hPDenJITQzq0QE93K+G39qhN+a9+2C/fmJfPLTPe+xTDuxte+97e in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:00:07 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assetsiVBORw0KGgoAAAANSUhEUgAAAu4AAAIwCAIAAABWS3nCAAAAAXNSR0IArs4c6QAA
+ABxpRE9UAAAAAgAAAAAAAAEYAAAAKAAAARgAAAEYAAUwxAOMoRcAAEAASURBVHgB
+7L0HVyNZtm6bv/69d+897nb3Oe3LV6VPSG9JyMR7AQJJgAxWeCTkI7Z5c+0dCgmb
+pkx3VVPjG1EhIZQoJMWe8S13Q7Vs2LSm1jIndX1csbsHdnvHFnI2u2JTC3Zh1sxN
+hYkJ0eKcTS+ZlYxZXba5bFjc0bt7+vDIHpdMuWIqDVtt2oayTW1bNlJgbSx3p2lZ
+/sXPUBjYbp15Bt20sQwvp9GRbpqOGsZ0ydZNRzVtvarKRgpsNZKpBqbS+hjpk5Yq
+O5UCdU62FNhSyx5U7UHF7pXtzpEtHtitXbtRtIWCzub1yqpNLdn5OTs5akfe24FX
+tu+pffXIPrlnem/Xe243eu82XzwJ3r4yg+/s+LidmmouLoTplMoum3zWrq/ZrU27
+vWX39+zBvjk6NEdHSB8fi45K+qisjype9qh0gY5LvKGnVCqZLulSSV0uXS5fpu4n
+Ob9vy+XLdNkTfuh+Ppb7otIh0uUjVT5W5VLo5P8AW+KVHnN85Fjt7eqdbbWz2doq
+NNazjcKKXk62lhJ2etiO99v3z+3rXvv8vu351j74Jrj/LWo8vFV/dj988ygYfGNG
++4OFKZWa1Zk5k0vZwrLdLNitNbO3afe37MGOLh2Y0pE6KSNdqaiTqqhcQ+bk5DJd
+caiVvKH7yBzsRdrf0/u7XmqniLRXsaiK27H09qbZ3EAWbayfkeFzWCiYXF5nczqb
+VavZcGXVS04IS/PILCbUwqyem1GJaZWYDDg5zI6rqdFwcjSYGGmODbXGBlvjg+H4
+kBof0hPDenJITQzq0QE93K+G39qhN+a9+2C/fmJfPLTPe+xTDuxte+97e in /home/gnu40k7jawq7/takeout_app/logic.php on line 2878
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:02:10 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[08-Aug-2018 00:02:11 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[08-Aug-2018 00:05:30 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 667
+[08-Aug-2018 00:06:51 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 669
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[08-Aug-2018 00:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 667
+[08-Aug-2018 00:07:20 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 669
+[08-Aug-2018 00:08:07 UTC] PHP Notice:  Undefined index: token in /home/gnu40k7jawq7/public_html/connection.php on line 131
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 637
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 633
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 640
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 667
+[08-Aug-2018 00:08:08 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 669
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 635
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 636
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 629
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 630
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 631
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 632
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:12:45 UTC] PHP Notice:  Undefined offset: 0 in /home/gnu40k7jawq7/takeout_app/logic.php on line 639
+[08-Aug-2018 00:24:48 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[08-Aug-2018 00:24:48 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[08-Aug-2018 00:26:23 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 667
+[08-Aug-2018 00:26:23 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 669
+[08-Aug-2018 00:28:29 UTC] PHP Notice:  Undefined index: profile_image_path in /home/gnu40k7jawq7/takeout_app/logic.php on line 666
+[08-Aug-2018 00:28:29 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[08-Aug-2018 00:29:53 UTC] PHP Notice:  Undefined index: total_revenew_to_date in /home/gnu40k7jawq7/takeout_app/logic.php on line 668
+[09-Aug-2018 19:36:21 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assets/chef/menu_items/1-Roasted Corn): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1869
+[09-Aug-2018 19:36:21 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assets/chef/menu_items/1-Spring Rolls): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1869
+[09-Aug-2018 19:36:21 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assets/chef/menu_items/1-BBQ Chicken): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1869
+[09-Aug-2018 19:36:38 UTC] PHP Warning:  fopen(/home/gnu40k7jawq7/takeout_app/assets/chef/menu_items/1-Roasted Corn): failed to open stream: No such file or directory in /home/gnu40k7jawq7/takeout_app/logic.php on line 1869
